@@ -4,6 +4,7 @@ A starter project that can be used to kickstart a React application.
 
 # ⭐ Features
 
+- react-router-dom
 - Comes with Sass support
 - react-icons
 
